@@ -30,7 +30,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/online-dictionary-web.git
+git clone https://github.com/Deepanshu151/Web-Dictionary.git
 Open the project
 
 Navigate to the project folder and open index.html in a browser.
